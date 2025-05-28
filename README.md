@@ -1,2 +1,2 @@
 # RCL_Project
-Documentation of the Rural Child Labour
+Documentation of the Rural Child Labour Project
